@@ -1,10 +1,12 @@
 Date,Source,Item,Quantity,Price
 7/9/2017,Trader Joe's,Crackers,16 oz,$2.69
-7/9/2017,Trader Joe's,Cold Brew,32 fl oz,$7.99
+7/9/2017,Trader Joe's,Cold Brew Coffee,32 fl oz,$7.99
 7/9/2017,Trader Joe's,Sliced Turkey,7 oz,$3.29
 7/9/2017,Trader Joe's,Sliced Cheese,12 oz,$3.99
 7/9/2017,Trader Joe's,Celery,2 stalks,$2.29
 7/9/2017,Trader Joe's,Cantaloupe,16 oz,$3.69
+8/9/2017,Walgreens,Ground Coffee,20 oz,$13.49
+8/9/2017,Walgreens,Canola Oil,24 fl oz,$3.29
 9/2/2017,Whole Foods,Bread,22 oz,$3.99
 9/2/2017,Whole Foods,Bagels,18 oz,$3.99
 9/2/2017,Whole Foods,Cereal,12 oz,$3.49
@@ -14,15 +16,33 @@ Date,Source,Item,Quantity,Price
 9/2/2017,Whole Foods,Sliced Cheese,12 oz,$5.99
 9/2/2017,Whole Foods,Sliced Cheese,12 oz,$5.99
 9/2/2017,Whole Foods,Sliced Turkey,0.5 lb,$6.99
+9/30/2017,Amazon,Orange Juice,59 fl oz,$5.23
+9/30/2017,Amazon,Orange Juice,59 fl oz,$5.23
+9/30/2017,Amazon,Breakfast Sausage,7 oz,$4.69
+9/30/2017,Amazon,Breakfast Sausage,7 oz,$4.69
+9/30/2017,Amazon,Breakfast Sausage,7 oz,$4.69
+9/30/2017,Amazon,Breakfast Sausage,7 oz,$4.69
 10/6/2017,Whole Foods,Tortilla Chips,16 oz,$2.99
 10/6/2017,Whole Foods,Lettuce,4.5 oz,$3.99
 10/6/2017,Whole Foods,Guacamole,1.18 lb,$10.61
 10/6/2017,Whole Foods,Sliced Cheese,12 oz,$5.99
 10/6/2017,Whole Foods,Bread,22 oz,$3.99
 10/6/2017,Whole Foods,Sliced Turkey,7 oz,$3.99
+10/9/2017,Walgreens,Crackers,8.7 oz,$4.79
+10/9/2017,Walgreens,Peanut Butter,16 oz,$2.49
 10/16/2017,Whole Foods,Salad,4.5 oz,$3.99
 10/16/2017,Whole Foods,Bread,24 oz,$2.00
 10/16/2017,Whole Foods,Crackers,8.5 oz,$3.79
 10/16/2017,Whole Foods,Sliced Turkey,7 oz,$3.99
 10/16/2017,Whole Foods,Yogurt,5.3 oz,$0.99
 10/16/2017,Whole Foods,Hummus,16 oz,$4.99
+10/23/2017,Walgreens,Ground Coffee,12 oz,$6.49
+10/30/2017,Whole Foods,Crackers,8.5 oz,$3.79
+10/30/2017,Whole Foods,Cold Brew Coffee,10 fl oz,$3.09
+10/30/2017,Whole Foods,Waffles,6 ct,$2.99
+10/30/2017,Whole Foods,Salad,4.5 oz,$3.99
+10/30/2017,Whole Foods,Mixed Berries,0.845 lb,$10.13
+10/30/2017,Whole Foods,Yogurt,32 oz,$3.39
+10/30/2017,Whole Foods,Block Cheese,8 oz,$5.99
+10/30/2017,Whole Foods,Granola,11 oz,$3.99
+10/30/2017,Whole Foods,Ice Cream,1.75 qt,$5.99
